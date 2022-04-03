@@ -6,4 +6,4 @@
 [Daniel Azevedo](https://www.github.com/danieltazevedo)  
 [Rodrigo Rodrigues](https://www.github.com/webst2r)  
 [Guilherme Monteiro](https://www.github.com/rushmetra)  
-[Vasco Moreno](https://github.com/vascobmoreno)
+[Zé Miguel Pereira](https://github.com/zemig00)
