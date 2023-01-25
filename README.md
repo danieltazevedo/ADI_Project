@@ -9,4 +9,4 @@ Machine Learning and Decision-Making's project which consists in developing seve
 [Guilherme Monteiro](https://www.github.com/rushmetra)  
 [Zé Miguel Pereira](https://github.com/zemig00)
 
-## Final grade: 14
+## Final grade: 14/20
